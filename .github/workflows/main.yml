@@ -1,0 +1,22 @@
+{
+  "name": "Tea_Simple",
+  "version": "1.0.0",
+  "description": "new pj",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/msb2733/Tea_Simple.git"
+  },
+  "dependencies": {
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msb2733/Tea_Simple.git/issues"
+  },
+  "homepage": "https://github.com/msb2733/Tea_Simple.git#readme"
+}
